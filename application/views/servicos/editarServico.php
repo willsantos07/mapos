@@ -3,7 +3,7 @@
         <div class="widget-box">
             <div class="widget-title">
                 <span class="icon">
-                    <i class="icon-align-justify"></i>
+                    <i class="icon-wrench"></i>
                 </span>
                 <h5>Editar Serviço</h5>
             </div>
