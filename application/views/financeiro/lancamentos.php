@@ -97,17 +97,19 @@ if (!$results) {?>
     <thead>
         <tr style="backgroud-color: #2D335B">
             <th>#</th>
-            <th>Data Inicial</th>
-            <th>Data Final</th>
+            <th>Tipo</th>
+            <th>Cliente / Fornecedor</th>
+            <th>Descrição</th>
+	    <th>Vencimento</th>
             <th>Status</th>
-            <th>Defeito</th>
+            <th>Valor</th>
             <th>Ações</th>
         </tr>
     </thead>
     <tbody>
 
         <tr>
-            <td colspan="6">Nenhuma lançamento encontrado</td>
+            <td colspan="8">Nenhum lançamento encontrado</td>
         </tr>
     </tbody>
 </table>
