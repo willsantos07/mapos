@@ -465,7 +465,8 @@
             total_servico = total_servico.replace(',', '');
             total_servico = parseFloat(total_servico);
             valor = parseFloat(valor);
-            $('#valor').val(valor + total_servico);
+            tot = valor + total_servico
+            $('#valor').val( tot.toFixed(2) );
         });
 
         $("#formFaturar").validate({
