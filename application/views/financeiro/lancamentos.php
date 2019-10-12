@@ -84,7 +84,7 @@ if (!$results) {?>
 	<div class="widget-box">
      <div class="widget-title">
         <span class="icon">
-            <i class="icon-tags"></i>
+            <i class="icon-money"></i>
          </span>
         <h5>Lançamentos Financeiros</h5>
 
@@ -119,7 +119,7 @@ if (!$results) {?>
 <div class="widget-box">
      <div class="widget-title">
         <span class="icon">
-            <i class="icon-tags"></i>
+            <i class="icon-money"></i>
          </span>
         <h5>Lançamentos Financeiros</h5>
 
